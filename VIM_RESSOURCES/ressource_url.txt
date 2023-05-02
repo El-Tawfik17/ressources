@@ -1,0 +1,9 @@
+//Vim ressources.
+
+
+//this resssources let you learn about vim commands.
+https://www.cs.colostate.edu/helpdocs/vi.html
+
+
+//this ressources let you know how to copy,paste and cut in vim editor. 
+https://linuxize.com/post/how-to-copy-cut-paste-in-vim/

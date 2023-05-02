@@ -1,0 +1,3 @@
+//this ressources let you learn about Shell commands.
+
+http://linuxcommand.org/lc3_lts0030.php
